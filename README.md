@@ -25,9 +25,6 @@ A simple Bash script for brute forcing directories on a web server. This tool he
 ```bash
 cd directory-brute-forcer
 
-```bash
 chmod +x dir_bruteforcer.sh
 
-Example
-```bash 
 ./dir_bruteforcer.sh http://example.com wordlist.txt
